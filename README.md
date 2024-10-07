@@ -1,6 +1,6 @@
 # Gelişmiş Load Balancer Projesi
 
-Bu projede, Load Balancer sistemini daha gelişmiş bir şekilde Java ve Kafka kullanarak geliştirdim. Uygulama, yükü dağıtarak sürekli ve sorunsuz bir şekilde çalışmayı hedefliyor.
+Bu projede , Load Balancer sistemini daha gelişmiş bir şekilde Java ve Kafka kullanarak geliştirdim. Uygulama, yükü dağıtarak sürekli ve sorunsuz bir şekilde çalışmayı hedefliyor.
 
 ## Proje Hakkında
 
